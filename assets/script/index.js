@@ -36,9 +36,3 @@ window.onclick = function(event) {
       modal.style.display = "none";
     }
 }
-
-window.onclick = function(event) {
-    if (event.target == settingsModal) {
-      settingsModal.style.display = "none";
-    }
-}
