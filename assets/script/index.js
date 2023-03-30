@@ -30,7 +30,7 @@ function setCookie(name, value, options = {}) {
 }
 
 
-// When the user clicks anywhere outside of the modal, close it
+// When the user clicks anywhere outside of the modal, function will close modal
 window.onclick = function(event) {
     if (event.target == modal) {
       modal.style.display = "none";
