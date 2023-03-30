@@ -13,6 +13,7 @@ const content = document.querySelector('.content');
 const accept = document.querySelector('.accept');
 const settings = document.querySelector('.settings')
 const settingsModal = document.querySelector('.settingsModal');
+const browser = 
 
 function openSettings() {
     settingsModal.style.display = 'inline-block';
