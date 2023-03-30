@@ -117,17 +117,17 @@ button:hover {
     color: #000;
 }
 
+.blur {
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+
 /*.ModalOpen { overflow: hidden; }
 
 .hidden { display: none; }
 
 .visuallyHidden { opacity: 0; }
 
-
-.is-blurred {
-    filter: blur(2px);
-    -webkit-filter: blur(2px);
-}
 */
 
 /* -----------------------------------*/
